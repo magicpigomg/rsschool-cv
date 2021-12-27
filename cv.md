@@ -25,3 +25,6 @@ function multiply(a, b){
 
 console.log(multiply(10, 20));
 ```
+## Education:
+- 2015 - 2019 BIP - University of Law and social-information technologies in the specialty "International public law".
+- Self-education
