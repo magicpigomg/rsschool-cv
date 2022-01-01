@@ -1,13 +1,13 @@
 # Artsiom Baranouski
 
-## Contacts info:
+## Contacts:
 - Location: Belarus, Mogilev
 - Phone: +375(44)716-24-22
 - Email: aintcosmos@gmail.com
 - GitHub: [magicpigomg](https://github.com/magicpigomg)
 - Discord: cosmos#0635
 
-## About me:
+## Summary:
 > I am 23 years old. I work in the banking sector and am constantly learning something new for myself.
 
 ## Skills:
@@ -29,5 +29,8 @@ console.log(multiply(10, 20));
 - 2015 - 2019 BIP - University of Law and social-information technologies in the specialty "International public law".
 - Self-education
 
-## English language level:
+## Project: 
+- cv - Rolling Scopes School
+
+## English level:
 - A2 (Pre-Intermediate)
