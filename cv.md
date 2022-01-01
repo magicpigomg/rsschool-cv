@@ -29,5 +29,8 @@ console.log(multiply(10, 20));
 - 2015 - 2019 BIP - University of Law and social-information technologies in the specialty "International public law".
 - Self-education
 
+## Project: 
+- cv - Rolling Scopes School
+
 ## English level:
 - A2 (Pre-Intermediate)
